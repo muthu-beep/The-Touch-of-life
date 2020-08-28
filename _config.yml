@@ -13,7 +13,7 @@ people:
   pic: 1
   position: Lead Designer
   social:
-    - title: twitter
+    - title: instagram
       url: #
     - title: facebook
       url: #
@@ -31,12 +31,12 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Muthu Adithya Ramnarayanan
   pic: 3
   position: Lead Developer
   social:
-    - title: twitter
-      url: #
+    - title: instagram
+      url: https://instagram.com/muthuadithya
     - title: facebook
       url: #
     - title: google-plus
