@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Burns (Article)
+subtitle: By Rachita Rajesh
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: rsz_sgw_blog_burns-everything-you-need-to-know_1200x800_c1.jpg
+thumbnail: rsz_sgw_blog_burns-everything-you-need-to-know_1200x800_c1.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: August 2020
+client: 
+category: Burns
+description: Burns are tissue damage that results from heat, overexposure to the sun or other radiation, or chemical or electrical contact. Burns can be minor medical problems or life-threatening emergencies. The treatment of burns depends on the location and severity of the damage. Read the Article <a href="https://raw.githubusercontent.com/muthu-beep/The-Touch-of-life/gh-pages/videos/How%20To%20Treat%20A%20Burn_RachitaRajesh.docx.pdf">here</a>
+
 
 ---
