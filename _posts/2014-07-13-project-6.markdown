@@ -10,5 +10,5 @@ alt: image-alt
 project-date: August 2020
 Participants: Sindu KV
 category: Nose Bleed
-description: Nosebleeds can be frightening, but they aren't usually a sign of anything serious and can often be treated at home.The medical name for a nosebleed is epistaxis. During a nosebleed, blood flows from one or both nostrils. It can be heavy or light and last from a few seconds to 15 minutes or more. To watch our video - https://github.com/muthu-beep/The-Touch-of-life/raw/gh-pages/videos/NoseBleed_SindhuKV.mp4
+description: Nosebleeds can be frightening, but they aren't usually a sign of anything serious and can often be treated at home.The medical name for a nosebleed is epistaxis. During a nosebleed, blood flows from one or both nostrils. It can be heavy or light and last from a few seconds to 15 minutes or more. To watch our video - [link](https://github.com/muthu-beep/The-Touch-of-life/raw/gh-pages/videos/NoseBleed_SindhuKV.mp4)
 ---
