@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Stroke
+subtitle: By a Group of 3
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: rsz_5bf73179a0f50fa381d3f351be7d26c9878e2c26.jpg
+thumbnail: rsz_5bf73179a0f50fa381d3f351be7d26c9878e2c26.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2020
+Names: Pranav and Siddharth and Shiv
+category: Stroke
+description: A stroke occurs when the blood supply to part of your brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. Brain cells begin to die in minutes. A stroke is a medical emergency, and prompt treatment is crucial. Watch the video - <a href="https://github.com/muthu-beep/The-Touch-of-life/raw/gh-pages/videos/leftlateral_aka_recoveryPosition_pd_shiv_Siddarth.mp4">Link</a>
 
 ---
