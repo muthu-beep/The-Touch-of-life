@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Recovery Position
+subtitle: By a Group of Three
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2020-08-29
+img: rsz_278a1912a245af70a58b2d6d0d1d26914560fcf7.jpg
+thumbnail: rsz_278a1912a245af70a58b2d6d0d1d26914560fcf7.jpg
 alt: image-alt
-project-date: April 2014
+project-date: August 2020
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Recovery Position
+description: The recovery position refers to one of a series of variations on a lateral recumbent or three-quarters prone position of the body, in to which an unconscious but breathing casualty can be placed as part of first aid treatment.An unconscious person, a person who is assessed on the Glasgow Coma Scale (GCS) at eight or below, in a supine position (on the back) may not be able to maintain an open airway as a conscious person would. Watch our Video - <a href="https://github.com/muthu-beep/The-Touch-of-life/raw/gh-pages/videos/leftlateral_aka_recoveryPosition_pd_shiv_Siddarth.mp4">Link</a>
 
 ---
