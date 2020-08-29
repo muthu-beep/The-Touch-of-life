@@ -4,8 +4,8 @@ subtitle: By a Group of 3
 layout: default
 modal-id: 4
 date: 2020-08-29
-img: rsz_278a1912a245af70a58b2d6d0d1d26914560fcf7.jpg
-thumbnail: rsz_278a1912a245af70a58b2d6d0d1d26914560fcf7.jpg
+img: rsz_1200px-recovery_positionsvg.jpg 
+thumbnail: rsz_1200px-recovery_positionsvg.jpg 
 alt: image-alt
 project-date: August 2020
 client: 
