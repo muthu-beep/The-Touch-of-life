@@ -1,15 +1,26 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Stroke (Article)
+subtitle: By Ishan Poojari
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+img: rsz_brain-stroke.jpg
+thumbnail: 
+alt: 
+project-date: August 2020
+client: 
+category: Stroke
+description: I ACT FAST: stroke  
+
+Circumstances associated with the pandemic were unexpected and severe. One such casualty of this pandemic is crowded medical facilities and emergency care. Most of the hospitals, healthcare workers, volunteers and ambulances are forcefully required to focus on the coivd-19 cases and treatment. Yet emergencies similar to the pandemic are uncertain for example; stroke, fits, bites, electrical shocks, allergies and asthma attacks. People cannot depend on immediate help such as ambulances due to obvious reasons mentioned above. Realizing the importance of first aid treatment especially in time of crisis (i.e. the present) I. ACT. FAST was conducted. A webinar providing insights on 10 emergencies. They gave a brief on the symptoms and how we can provide first aid in order to reduce damage or prevent further casualties. 
+I for instance will provide a brief on stroke; the symptoms and what first aid measures have to be conducted. 
+Stroke 
+
+A stroke is the interruption of blood or reduction of oxygen supplied by the blood vessels to the brain. Under first aid we will focus more on immediate first -aid treatments and identification of stroke symptoms rather than diagnosis and treatments. 
+
+The most common stroke symptoms include face dropping, weakened arms, and difficulty in talking (speech). One side (most of the time the left side of the face) drops down that is the first indication that a person has a stroke, in order to confirm ask questions to person like, his/her name, where he/she works and notice how fluent or comfortable they are while speaking, for a final confirmation ask them to lift their arms or vertically lift their hands and ask them to maintain a parallel position, if they are unable to do so you must confirm that the person is having a stroke. Sometime if you ask them to pull their tongue out it wouldn’t come out straight rather slightly tilted out to the left. 
+
+First step would be to call 911/102/108 (depends on where you are located). Let the person lie down, but do not let them sleep/ lose consciousness, keep talking with the person. If coconut oil is available give few spoons of coconut oil to the person, not focusing on the depth of scientific reasons here; coconut oil is proven/ evident in reducing the severity of a stroke. 
+
 
 ---
