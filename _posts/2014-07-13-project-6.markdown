@@ -4,8 +4,8 @@ subtitle: By Sindu KV
 layout: default
 modal-id: 6
 date: 2020-08-29
-img: iStock_11978861_XLARGE-27cd81e
-thumbnail: iStock_11978861_XLARGE-27cd81e
+img: iStock_11978861_XLARGE-27cd81e.jpg
+thumbnail: iStock_11978861_XLARGE-27cd81e.jpg
 alt: image-alt
 project-date: August 2020
 Participants: Sindu KV
