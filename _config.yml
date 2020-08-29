@@ -11,21 +11,21 @@ description: "During the pandemic, access to medical care is scarce and the impo
 people:
 - name: Urvi Nath
   pic: 1
-  position: Lead Designer
+  position: Head 1
   social:
     - title: instagram
-      url: #
+      url: https://www.instagram.com/__urviii_/
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: example.com
+    - title: linkedin
+      url: example.com
 
 - name: Rachitha Raghuram
   pic: 2
   position: Lead Marketer
   social:
-    - title: twitter
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/rachitha_1502/
     - title: facebook
       url: #
     - title: linkedin
@@ -37,23 +37,23 @@ people:
   social:
     - title: instagram
       url: https://instagram.com/muthuadithya
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: github
+      url: https://github.com/muthu-beep
+    - title: linkedin
+      url: https://www.linkedin.com/in/muthu-adithya-ramnarayanan-374377198/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: example.com
   - title: facebook
-    url:
+    url: facebook.com
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/muthu-beep/The-Touch-of-life
 
 # Postal address (add as many lines as necessary)
 address:
