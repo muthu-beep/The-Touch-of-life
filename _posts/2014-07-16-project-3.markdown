@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2020
 Names: Pranav and Siddharth and Shiv
 category: Stroke
-description: A stroke occurs when the blood supply to part of your brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. Brain cells begin to die in minutes. A stroke is a medical emergency, and prompt treatment is crucial. Watch the video - <a href="https://github.com/muthu-beep/The-Touch-of-life/raw/gh-pages/videos/leftlateral_aka_recoveryPosition_pd_shiv_Siddarth.mp4">Link</a>
+description: By Pranav, Siddharth and Shiv. A stroke occurs when the blood supply to part of your brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. Brain cells begin to die in minutes. A stroke is a medical emergency, and prompt treatment is crucial. Watch the video - <a href="https://github.com/muthu-beep/The-Touch-of-life/raw/gh-pages/videos/leftlateral_aka_recoveryPosition_pd_shiv_Siddarth.mp4">Link</a>
 
 ---
