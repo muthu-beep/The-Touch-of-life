@@ -1,14 +1,14 @@
 ---
-title: Nose Bleed (Pt. 2)
-subtitle: By a Group of Three
+title: Nose Bleeds
+subtitle: By a Group of 3
 layout: default
 modal-id: 5
 date: 2020-08-29
 img: Nosebleed-Why-Does-it-Happen-_-How-to-Treat-It.jpg 
+thumbnail: Nosebleed-Why-Does-it-Happen-_-How-to-Treat-It.jpg 
 alt: image-alt
-project-date: April 2020
-client: Pranav Dhillon, Siddharth Vinod and Shiv
+project-date: August 2020
+Participants: Pranav and Siddharth and Shiv
 category: Nose Bleed
-description: Nosebleeds can be frightening, but they aren't usually a sign of anything serious and can often be treated at home.The medical name for a nosebleed is epistaxis. During a nosebleed, blood flows from one or both nostrils. It can be heavy or light and last from a few seconds to 15 minutes or more. To watch our video - 
-<a href="https://github.com/muthu-beep/The-Touch-of-life/raw/gh-pages/videos/nosebleed_shiv_pd_siddarth.mp4">Link</a>
+description: Nosebleeds can be frightening, but they aren't usually a sign of anything serious and can often be treated at home.The medical name for a nosebleed is epistaxis. During a nosebleed, blood flows from one or both nostrils. It can be heavy or light and last from a few seconds to 15 minutes or more. To watch our video - <a href="https://github.com/muthu-beep/The-Touch-of-life/raw/gh-pages/videos/nosebleed_shiv_pd_siddarth.mp4">Link</a>
 ---
