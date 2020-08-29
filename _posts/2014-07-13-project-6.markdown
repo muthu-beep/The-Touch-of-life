@@ -1,15 +1,14 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Nose Bleeds
+subtitle: By Sindu KV
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2020-08-29
 img: roundicons.png
 thumbnail: roundicons.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: August 2020
+Participants: Sindu KV
+category: Nose Bleed
+description: Nosebleeds can be frightening, but they aren't usually a sign of anything serious and can often be treated at home.The medical name for a nosebleed is epistaxis. During a nosebleed, blood flows from one or both nostrils. It can be heavy or light and last from a few seconds to 15 minutes or more.
 ---
